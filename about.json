@@ -1,0 +1,17 @@
+{
+    "title": "",
+    "author": "",
+    "version": "1.0",
+    "shortdesc": "",
+    "license": "MIT",
+    "difficulty": 1,
+    "projurl": "",
+    "projreadme": ["README.md"],
+    "preview": ["private", ""],
+    "exec": ["src", ""],
+    "docloc": ["docs"],
+    "doclist": {
+    	"": "", 
+    	"": ""
+    }
+}
