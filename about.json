@@ -1,15 +1,15 @@
 {
     "title": "",
     "author": "",
-    "version": "1.0",
+    "version": "",
     "shortdesc": "",
-    "license": "MIT",
-    "difficulty": 1,
+    "license": "",
+    "difficulty": ,
     "projurl": "",
-    "projreadme": ["README.md"],
-    "preview": ["private", ""],
-    "exec": ["src", ""],
-    "docloc": ["docs"],
+    "projreadme": [""],
+    "preview": [""],
+    "exec": [""],
+    "docloc": [""],
     "doclist": {
     	"": "", 
     	"": ""
